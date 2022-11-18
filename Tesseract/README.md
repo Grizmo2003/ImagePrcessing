@@ -15,7 +15,7 @@ We will install using the Homebrew tool. You type the following command:
 
 After typing, you wait to run the command to finish.
 
-![MAC OS](Image\tesseract_install_macos.jpg)
+![MAC OS](Image/tesseract_install_macos.jpg)
 
 Source: pyimagesearch
 
@@ -26,14 +26,14 @@ You use apt-get as follows:
 
 Then sit back and wait for it to run out of commands.
 
-![Linux](Image\tesseract_install_ubuntu.jpg)
+![Linux](Image/tesseract_install_ubuntu.jpg)
 
 Source: pyimagesearch
 
 ### Window:
 You download the installation file [Here](https://github.com/UB-Mannheim/tesseract/wiki) (remember to choose the 32 bit and 64 bit versions suitable for your window).
 
-![Window](Image\tesseract_install_window.jpg)
+![Window](Image/tesseract_install_window.jpg)
 
 ### 2.2 Set up envirroment
 
@@ -45,7 +45,7 @@ The language folder named tessdata is located in the Tesserac OCR installation d
 
 With Window you can dowload language when install Tesseract at Choose Components window:
 
-![Window](Image\tesseract_install_window.jpg)
+![Window](Image/tesseract_install_window.jpg)
 
 Select Vietnamese or what ever language you want at additional language data
 
